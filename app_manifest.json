@@ -1,0 +1,10 @@
+{
+  "SchemaVersion": 1,
+  "Name": "main",
+  "ComponentId": "aa611363-c128-4551-8fe7-0e0e2e999ac8",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": []
+  }
+}
